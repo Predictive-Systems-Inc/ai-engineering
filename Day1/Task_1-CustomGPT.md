@@ -1,6 +1,17 @@
+# Setting up environment
+
+### Setup Conda Environment
+conda create --name ai-testplanner python=3.12
+conda activate ai-testplanner
+
+### Install libraries
+pip install chainlit langchain openai pandas openpyxl
+
+
 # Creating A Custom GPT Through OpenAI
 
 We'll create a [CustomGPT](https://openai.com/blog/introducing-gpts) for today's assignment through the OpenAI user interface. 
+
 
 ## 🏗️Build
 
