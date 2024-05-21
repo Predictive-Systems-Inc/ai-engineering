@@ -1,0 +1,52 @@
+{
+    "os": "Windows-11-10.0.22631-SP0",
+    "python": "3.12.3",
+    "heartbeatAt": "2024-05-20T05:48:15.756418",
+    "startedAt": "2024-05-20T05:48:12.922693",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "./Pythonic RAG Assignment.ipynb",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Predictive-Systems-Inc/ai-engineering.git",
+        "commit": "5d9323e3eadb844807fc3bdacaf8699c4e2b800c"
+    },
+    "email": "james@predictivesystems.ai",
+    "root": "D:/Repositories/ai-engineering",
+    "host": "itsybitsci",
+    "username": "jnarg",
+    "executable": "d:\\Programs\\Anaconda\\envs\\ai-engineering\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2496.0,
+        "min": 0.0,
+        "max": 2496.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2496.0,
+            "min": 0.0,
+            "max": 2496.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 589.7148399353027,
+            "used": 354.87573623657227
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 23.835010528564453
+    }
+}
