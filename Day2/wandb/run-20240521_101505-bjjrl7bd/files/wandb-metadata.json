@@ -1,0 +1,47 @@
+{
+    "os": "Windows-11-10.0.22631-SP0",
+    "python": "3.12.3",
+    "heartbeatAt": "2024-05-21T02:15:08.621537",
+    "startedAt": "2024-05-21T02:15:05.262983",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "./Pythonic RAG Assignment.ipynb",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com-markcmtan:Predictive-Systems-Inc/ai-engineering.git",
+        "commit": "ea15f9398b2e5f4b1306522f5ac4af524a7fc8dc"
+    },
+    "email": "markcmtan@gmail.com",
+    "root": "D:/Dev/psi/ai-engineering",
+    "host": "Taniyow",
+    "username": "Taniyow",
+    "executable": "d:\\Dev\\psi\\ai-engineering\\.conda\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2502.0,
+        "min": 0.0,
+        "max": 3201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2502.0,
+            "min": 0.0,
+            "max": 3201.0
+        }
+    ],
+    "disk": {},
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+            "memory_total": 6439305216
+        }
+    ],
+    "memory": {
+        "total": 15.2425537109375
+    }
+}
